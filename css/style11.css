@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    height: 700px;
+
+}
+
+header,main,footer {
+border: 3px solid black;
+margin: 60px;
+flex: 1px;
+}
+
+header{
+    background-color: yellow;
+}
+main{
+    background-color:  rgb(0, 234, 255);
+}
+
+footer{
+    background-color: rgb(153, 146, 146);
+}

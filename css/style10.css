@@ -1,0 +1,176 @@
+header{
+    background-color: goldenrod;
+    border: 3px solid black; 
+    height: 150px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+div{
+    align-items: center;
+    margin: 10px;
+
+    display: flex;
+    justify-content: center;
+
+}
+ 
+.flex-item1{
+    background-color: plum;
+    width: 20%; 
+    height: 30px;
+    border: 3px solid black;
+    flex-basis: 10%;
+}
+
+
+.flex-item2{
+    background-color: plum;
+    width: 20%; 
+    height: 30px;
+    border: 3px solid black;
+    flex-basis: 10%; 
+}
+
+.flex-item3{
+    background-color: plum;
+    width: 20%; 
+    height: 30px;
+    border: 3px solid black;
+    flex-basis: 10%;
+}
+
+.flex-item4{
+    background-color: plum;
+    width: 20%; 
+    height: 30px;
+    border: 3px solid black;
+    flex-basis: 10%;
+}
+
+
+
+.flex-item5 {
+background-color: rgb(51, 201, 51);
+    width: 50px; 
+    height: 50px;;
+   flex-basis: 10%;
+    border: 3px solid black;
+   margin-left: 20%;
+    padding: 0px;
+    display: flex;
+    align-items: end;
+    border-radius: 60px;
+    
+}
+
+
+
+
+main{
+    
+    margin: 10px;
+    display: flex;
+
+}
+
+.main-section3{
+    background-color: rgb(163, 36, 36);
+    width: 50%; 
+    height: 150px;
+    border: 3px solid black;
+    margin-left: 40px;
+    flex-basis: 80%;
+    
+}
+
+.main-section2{
+    background-color: green;
+    width: 20%; 
+    height: 150px;
+    border: 3px solid black;
+    flex-basis: 40%;
+  
+    
+}
+
+
+footer{
+    background-color: rgb(101, 148, 223);
+    border: 3px solid black;
+    height: 150px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+.nav-bar{
+    background-color: goldenrod;
+    border: 3px solid black; 
+    height: 150px;
+    margin: 10px;
+    border: 3px solid black; 
+}
+
+.nav-bar a{
+    background-color: goldenrod;
+    border: 3px solid black; 
+    height: 150px;
+    margin: 10px;
+    border: 3px solid black; 
+} 
+
+.head-section1{
+    background-color: rgb(106, 224, 106);
+    width: 50px; 
+    height: 50px;
+    border: 3px solid black;
+    display: flex;
+ margin: 5%;
+ float: left;
+}
+
+
+.login{
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 65%;
+    font-size: small;
+    font-weight: bold;
+color: aliceblue;
+}
+  
+.About-us{
+    border: 3px solid black;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+
+}
+
+.Support{
+    border: 3px solid black;
+    margin: 20px;
+    width: 100px;
+    height: 100px; 
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+.Social-Connect{
+    border: 3px solid black;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.navfooter{
+   margin-left:40% ;
+}

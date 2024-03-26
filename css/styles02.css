@@ -1,0 +1,21 @@
+header{
+    background-color: goldenrod;
+    border: 3px solid black; 
+    height: 150px;
+    margin: 10px;
+}
+
+main{
+    background-color: gray;
+    border: 3px solid black;
+    height: 150px;
+    margin: 10px;
+    flex-basis: 30px;
+}
+
+footer{
+    background-color: rgb(101, 148, 223);
+    border: 3px solid black;
+    height: 150px;
+    margin: 10px;
+}
