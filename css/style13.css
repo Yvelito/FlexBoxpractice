@@ -8,17 +8,20 @@
     border: 3px solid black;
     width: 30%;
     height: 100%;
-    margin: 15px;
+    margin: 5px;
     background-color: yellow;
     flex-direction: row;
+    margin-right: 5px;
 }
 
 .main-section{
     margin: 15px;
     width: 50%;
+    height: 100%;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    margin-top: 7px;
 
 }
 
@@ -44,4 +47,7 @@
     height: 100%;
     background-color: rgb(201, 49, 156);
     flex-direction: row;
+    margin-top: 7px;
+  
+
 }   
